@@ -1,0 +1,23 @@
+
+.login-page,
+.register-page {
+  align-items: center;
+  background-image: linear-gradient(to left,#2BAE66FF, rgb(186, 236, 209) );   
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  padding: 0.75rem;
+  
+}
+
+a {
+    color: #2BAE66FF;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+b, strong {
+    font-weight: bolder;
+    color: #2BAE66FF;
+}
