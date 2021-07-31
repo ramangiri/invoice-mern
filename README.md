@@ -6,7 +6,7 @@ server Link : https://rg-invoice-server.herokuapp.com/
 
 ## Sample image of invoice 
 
-![Alt text](sample.png?raw=true "Folders-and-Files")
+![Alt text](invoice.png?raw=true "Folders-and-Files")
 
 
 
